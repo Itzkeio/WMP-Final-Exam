@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479992801737",
+    "project_id": "finalexam-c632f",
+    "storage_bucket": "finalexam-c632f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479992801737:android:ef34f0911868a8447e2018",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUcLEzATU6fXg3MEi4eP2vghEZ6iVWPvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
